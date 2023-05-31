@@ -39,8 +39,10 @@
 ## 工作经历
 
 ### MOVEBIT 2022.8-2023.5
-* 负责sui move analyzer的开发，(实现了一个)https://www.youtube.com/watch?v=79L0CrjLBUg
+* 负责sui move analyzer的开发，(重新实现了语义分析)https://www.youtube.com/watch?v=79L0CrjLBUg
+
 * 一些项目审计
+
 
 ### WASMTIME 2022.3-至今
 * 移植开源的wasm虚拟机到riscv64 https://github.com/bytecodealliance/wasmtime/commits?author=yuyang-ok
@@ -67,7 +69,6 @@
 ## 个人技能
 * 语言水平：     具有良好的英语听、说、读、写能力，普通话可以公开、清晰表明个人观点。
 * 计算机能力：   熟练掌握软件开发、软件技术等计算机控制系统。
-
 
 
 
