@@ -38,6 +38,10 @@
 
 ## 工作经历
 
+### 北京数慧
+* 数据库融合查询工具-rust
+
+
 ### MOVEBIT 2022.8-2023.5
 * 负责sui move analyzer的开发，(重新实现了语义分析)https://www.youtube.com/watch?v=79L0CrjLBUg
 
