@@ -9,7 +9,7 @@
 | Email | yuyangxxxmail@gmail.com |
 | Graduate school | Jiangxi University of Science and Technology |
 | Job Objectives | System Engineer |
-| Age | 35 |
+| Age | 36 |
 | Hometown | Guang'an, Sichuan |
 
 
@@ -37,6 +37,14 @@ Period), known as "the cradle of non-ferrous metallurgical talents".
 
 
 ## work experience
+
+### dbpal 2024.10-now
+* dbpal database management as fullstack https://dbpal.site/
+
+### MOVEBIT 2023.7-2024.10
+* data warehouse project , working as rust backend programmer
+
+
 
 ### MOVEBIT 2022.8-2023.5
 * Responsible for the development of sui move analyzer, (reimplemented semantic analysis) https://www.youtube.com/watch?v=79L0CrjLBUg
