@@ -9,7 +9,7 @@
 | 邮箱  | yuyangxxxmail@gmail.com |
 | 毕业院校  | 江西理工大学 |
 | 求职目标  | 系统工程师 |
-| 年龄  | 35 |
+| 年龄  | 36 |
 | 籍贯  | 四川广安 |
 
 
@@ -38,36 +38,41 @@
 
 ## 工作经历
 
-## dbpal数据库管理系统
-https://dbpal.site/
+### dbpal数据库管理系统 2024.10-至今
+* rust + tauri + react
+* https://dbpal.site/
 
-### 北京数慧  2022.7-2024.10
+### 北京数慧  2023.7-2024.10.
+* rust后端
 * 数据库融合查询工具-rust 基于datafusion
 
 
 ### MOVEBIT 2022.8-2023.5
+*  rust后端
 * 负责sui move analyzer的开发，(重新实现了语义分析)https://www.youtube.com/watch?v=79L0CrjLBUg
-
 * 一些项目审计
 
 
-### WASMTIME 2022.3-至今
+### WASMTIME 2022.3-2022.8
+*  rust+riscv+编译器
 * 移植开源的wasm虚拟机到riscv64 https://github.com/bytecodealliance/wasmtime/commits?author=yuyang-ok
 * 实现cranelift的指令选择语言的IDE支持 https://github.com/yuyang-ok/isle-analyzer
 ###  上海川仪  2016.11-2021.9 
-
+* golang后端
 * 负责公司产品自动化监控系统服务器的管理、升级及维护。
 * 组织完成自动化监控系统的开发计划和监控平台功能的制定及优化，承担自动化监控系统功能需求分析。
 * 组织完成自动化监控系统硬件部署、系统集成、系统调试与发布应用，承担监控系统运营的技术支持工作。
 * 负责自动化系统后台包括数据的采集，报警判断，数据的存储，数据的推送（推送到web前台），数据的同步和备份等工作。
 
 ###  上海鲑鱼科技 2015.10-2016.08 
+* golang后端
 * 负责二次开发的工作，原来的代码来源是tap4fun，主要是修改bug之类的工作，新开了一个用户系统。
 * 主要负责所有后台的设计，会员系统，登陆系统，后台3级权限的设计，新闻和公告的发布。
 * 打包脚本和安装脚本的编写，项目的上线，在linux服务器安装web服务器(nginx)和配置反向代理等。
 
 
 ### 南昌邦腾科技  2012.09-2015.10
+* php后端 偶尔一下前端开发
 * 一些cdn系统的后台和前端管理系统，偏向CMS系统等（php实现）。
 * 一些同步程序等， 主要用golang实现
 
