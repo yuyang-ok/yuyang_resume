@@ -48,7 +48,7 @@
 
 
 ### MOVEBIT 2022.8-2023.5
-*  rust后端
+*  rust后端+move语言静态分析
 * 负责sui move analyzer的开发，(重新实现了语义分析)https://www.youtube.com/watch?v=79L0CrjLBUg
 * 一些项目审计
 
